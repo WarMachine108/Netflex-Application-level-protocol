@@ -1,0 +1,11 @@
+/build/
+__pycache__/
+/.objects/
+/NetFlex.exe
+*.exe
+*.o
+*.obj
+*.a
+*.lib
+*.pdb
+*.pyc
